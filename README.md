@@ -1,6 +1,6 @@
 # Panel-Based Hypar
 
-(images to be added)
+![main image](./References/key image.jpg)
 
 ## Summary
 Hyperbolic paraboloid (diamond saddle roof) structure composed of square panels.

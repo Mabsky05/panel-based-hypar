@@ -1,6 +1,7 @@
 # Panel-Based Hypar
 
 ![main image](/References/image_main.png)
+![file image](/References/gh_preview.jpg)
 
 ## Summary
 Hyperbolic paraboloid (diamond saddle roof) structure composed of square panels.
@@ -41,9 +42,17 @@ View >> remote control panel to view inputs.
 ![image 9](/References/9.png)
 ![image 11](/References/11.png)
 
-(to be continued)
+
 
 ## Log
+
+### 06/11/2024
+Re-uploaded final ghx with remote control panel.
+Added ghx file image.
+ 
+Future stuff for consideration:
+1) Panels are limited to odd number divisions (add even)
+2) Listing multiple parameters to an excel file.   
 
 ### 20/09/2024
 First upload.
